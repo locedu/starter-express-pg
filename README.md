@@ -1,1 +1,2 @@
-# b34
+# starter project: express, postgres
+boilerplate dependencies included.
